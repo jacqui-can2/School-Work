@@ -1,6 +1,5 @@
 #Jacqueline Cantu
 #Computer Science 1370.02
-#SID: 20401195
 #ConvertLab
 
 #Part 1:brute force program:
